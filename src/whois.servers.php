@@ -188,7 +188,6 @@ return array(
 	'bv' => '',
 	'bw' => 'whois.nic.net.bw',
 	'by' => 'whois.cctld.by',
-	//'bz' => '',
 	'bzh' => 'whois-bzh.nic.fr',
 	'ca' => 'whois.cira.ca',
 	'cab' => 'whois.donuts.co',
