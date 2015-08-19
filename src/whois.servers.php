@@ -102,7 +102,6 @@ return array(
 	'ao' => '',
 	'apartments' => 'whois.donuts.co',
 	'app' => 'whois.nic.google',
-	'aq' => '',
 	'aquarelle' => 'whois-aquarelle.nic.fr',
 	'ar' => 'whois.nic.ar',
 	'archi' => 'whois.ksregistry.net',
